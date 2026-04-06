@@ -1,0 +1,2 @@
+- [Playwright E2E Setup](project_playwright_setup.md) — Tests in frontend/e2e/, run via `npm run test:e2e`, Playwright 1.59.1
+- [Next.js Build Cache Corruption](project_build_cache_issue.md) — Missing @tanstack vendor chunk causes cascade failures; fix with `rm -rf .next`
